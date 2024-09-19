@@ -1,4 +1,3 @@
-// Controller.cs
 public class Controller
 {
     private Model _model;
